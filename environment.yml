@@ -1,0 +1,8 @@
+name: my-example-environment
+channels:   
+  - conda-forge 
+dependencies:
+  - pandas
+  - requests
+  - json
+  - base64
