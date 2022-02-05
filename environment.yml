@@ -1,8 +1,6 @@
-name: my-example-environment
+name: APIs binder
 channels:   
   - conda-forge 
 dependencies:
   - pandas
   - requests
-  - json
-  - base64
